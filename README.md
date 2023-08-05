@@ -1,0 +1,1 @@
+# price-panel_complete_static
